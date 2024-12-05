@@ -18,7 +18,7 @@
 - Sözlük Boyutu: Sözlük boyutunun büyümesi demek toplam model boyutunun da büyümesi demek olduğundan hem train aşamasında daha çok tokeni eğitmek hem de tahmin aşamasında daha çok token arasından seçim yapmak göz önünde bulundurulunca aynı dil için kullanılacak daha küçük bir sözlük daha verimli olabilir.
 - Hız: Yine hem train aşamasında corpusun tokenleştirilmesinde hem de son kullanıcı büyük metinlerle işlem yaparken önemli bir kriter.
 
-### *Bu kriterler bitmedi.*
+### *Bu başlık bitmedi.*
 
 ## Maddelerin Uygulanması
 
